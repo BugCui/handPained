@@ -53,5 +53,5 @@
 <br>
 
 ## 爽田的小西瓜
-![](/2021/watermalon.png)
+![](/2021/watermelon.png)
 
